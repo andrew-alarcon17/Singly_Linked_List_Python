@@ -1,1 +1,1 @@
-# Singly and DOubly Linked Lists in Python
+# Singly and Doubly Linked Lists in Python
